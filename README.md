@@ -27,12 +27,6 @@ npm i @seregpie/save-file
 import saveFile from '@seregpie/save-file';
 ```
 
-### Node
-
-```javascript
-let saveFile = require('@seregpie/save-file');
-```
-
 ### browser
 
 ```html
