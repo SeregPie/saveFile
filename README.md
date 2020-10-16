@@ -21,7 +21,7 @@ Returns a promise.
 npm i @seregpie/save-file
 ```
 
-### ES module
+---
 
 ```javascript
 import saveFile from '@seregpie/save-file';
